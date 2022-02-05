@@ -11,6 +11,7 @@ rootProject.name = "fastcampus-spring-cloud"
 
 include(
         "fastcam-spring-apigw",
-        "fastcam-photoapp"
+        "fastcam-photoapp",
+        "fastcam-spring-eureka"
 )
 
