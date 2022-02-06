@@ -10,8 +10,11 @@
 rootProject.name = "fastcampus-spring-cloud"
 
 include(
+        "fastcam-spring-utils",
         "fastcam-spring-apigw",
         "fastcam-photoapp",
-        "fastcam-spring-eureka"
+        "fastcam-spring-eureka",
+        "fastcam-spring-rabbitmq",
+        "fastcam-spring-kafka"
 )
 
